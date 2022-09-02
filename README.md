@@ -45,6 +45,7 @@ resolva os itens abaixo:
 • Saltos de cada atleta, seguidos de sua média;
 • A média dos saltos do campeão e do último lugar;
 Permitir gravar e ler estes dados de um arquivo.
+
 5. Criar uma loteria com 6 números de 1 a 60. Solicitar ao usuário quantas cartelas deseja
 preencher criar uma matriz deste tamanho para armazenar os valores que serão criados
 aleatoriamente. No final analisar cada uma das cartelas e mostrar ao lado do números (ordenados
